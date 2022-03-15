@@ -1,8 +1,8 @@
 {
-  "name": "json-html",
+  "name": "json-into-html",
   "version": "1.0.0",
   "description": "Convert json to html",
-  "main": "json-html.js",
+  "main": "json-into-html.js",
   "directories": {
     "test": "test"
   },

@@ -1,14 +1,14 @@
-# json-html v1.0.0
+# json-into-html v1.0.0
 Convert json to html
 
 ## Installation
 ```
-npm i json-html
+npm i json-into-html
 ```
 
 ## Example
 ```js
-const { Json2Html } = require('json-html');
+const { Json2Html } = require('json-into-html');
 const fs = require("fs");
 
 const html = Json2Html([

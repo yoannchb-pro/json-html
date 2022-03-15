@@ -1,4 +1,4 @@
-const { Json2Html } = require('../json-html');
+const { Json2Html } = require('../json-into-html');
 const fs = require("fs");
 
 const html = Json2Html([
