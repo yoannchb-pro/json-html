@@ -1,0 +1,30 @@
+{
+  "name": "json-html",
+  "version": "1.0.0",
+  "description": "Convert json to html",
+  "main": "json-html.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/json-html.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "to",
+    "convert",
+    "template",
+    "creator"
+  ],
+  "author": "yoannchb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannchb-pro/json-html/issues"
+  },
+  "homepage": "https://github.com/yoannchb-pro/json-html#readme"
+}
